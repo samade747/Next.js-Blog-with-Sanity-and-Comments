@@ -19,21 +19,6 @@ export interface Post {
 
 
 
-// export interface Post {
-//   _id: string;
-//   slug: string; // Ensure this is a string
-//   postName: string;
-//   postDescription: string;
-//   postImageUrl: string;
-//   postDate: string;
-//   postAuthor: {
-//     name: string;
-//     imageUrl: string;
-//     bio: string;
-//   };
-//   postContent: any;
-//   readTime: number;
-// }
 
   
   export interface Comment {
